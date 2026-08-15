@@ -1,0 +1,9 @@
+# Robots.txt for KM Enterprise (https://www.kmentp.com/)
+
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /admin/
+
+# Sitemap Location
+Sitemap: https://www.kmentp.com/sitemap.xml
