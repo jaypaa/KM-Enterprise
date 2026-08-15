@@ -208,7 +208,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ initialRequireme
             <div className="rounded-2xl border border-slate-200 overflow-hidden shadow-sm bg-slate-100 p-4 text-center space-y-2">
               <div className="flex items-center justify-center space-x-2 text-slate-700 font-bold text-xs">
                 <MapPin className="w-4 h-4 text-blue-700" />
-                <span>Kadi, Mahesana, Gujarat – 382715</span>
+                <span>Kadi, Mahesana, Gujarat – 384440</span>
               </div>
               <p className="text-[11px] text-slate-500 max-w-sm mx-auto">
                 Strategically positioned in Gujarat's vibrant industrial corridor with easy access to major western ports (Mundra, Kandla, Pipavav).

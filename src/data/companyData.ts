@@ -21,14 +21,14 @@ export const COMPANY_DETAILS: CompanyContact = {
     link: 'https://wa.me/919586307407?text=Hello%20KM%20Enterprise,%20I%20am%20interested%20in%20your%20products/services.%20Please%20share%20more%20information.'
   },
   address: {
-    line1: '39, Ayodhyanagar Part 3',
-    line2: 'Nani Kadi Road, Nani Kadi',
+    line1: 'G11, Tirth Arcade',
+    line2: 'Kadi Thol Road, Kadi',
     city: 'Kadi',
     district: 'Mahesana',
     state: 'Gujarat',
-    pincode: '382715',
+    pincode: '384440',
     country: 'India',
-    full: '39, Ayodhyanagar Part 3, Nani Kadi Road, Nani Kadi, Kadi, Mahesana, Gujarat – 382715, India'
+    full: 'G11, Tirth Arcade, Kadi Thol Road, Kadi, Dist-Mehesana, Gujarat – 384440, India'
   },
   web3formsAccessKey: 'c838e55e-2b1d-409b-b5cb-19f9570bb1fb'
 };
