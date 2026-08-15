@@ -1,0 +1,6 @@
+{
+  "name": "KM Enterprise",
+  "description": "KM Enterprise | Import & Export | Global Trading Company - Premium B2B Industrial Products, Inspection & Global Trade Solutions based in Gujarat, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
